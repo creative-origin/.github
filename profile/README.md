@@ -7,6 +7,7 @@
 - [Responsibilities of Alliance Members](#responsibilities-of-alliance-members)
 - [Choice of Alliance Platform](#choice-of-alliance-platform)
 - [References](#references)
+- [Members](#members)
 
 # Background
 
@@ -34,3 +35,14 @@ The alliance has strategically chosen to host its platform on GitHub to leverage
 # References
 
 1. Artificial Intelligence Act, https://artificialintelligenceact.com/
+
+# Members
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="50%"><a href="https://numbersprotocol.io"><img src="https://avatars.githubusercontent.com/u/47553609?s=200&v=4" width="100px;" alt="Numbers Protocol"/><br /><sub><b>Numbers Protocol</b></sub></a>
+      <td align="center" valign="top" width="50%"><a href="https://www.instill.tech"><img src="https://avatars.githubusercontent.com/u/66143470?s=200&v=4" width="100px;" alt="Instill AI"/><br /><sub><b>Instill AI</b></sub></a>
+    </tr>
+  </tbody>
+</table>
