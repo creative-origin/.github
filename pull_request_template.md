@@ -1,4 +1,4 @@
-# Application to Join Creative Origin Alliance
+# Application to Join Creative Origin
 
 Please check the following steps:
 
