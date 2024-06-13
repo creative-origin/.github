@@ -39,10 +39,9 @@ We welcome you to apply to join Creative Origin! Please follow these steps to ap
 
 1. Fork this repository.
 1. Create a new branch.
-1. Add a new Pull Request, put your logo into the `logos` directory, and include the following information in the PR description:
-    * Full Name of the Company / Organization / Individual
-    * Website
-    * Social Media Links (e.g., X / LinkedIn / Facebook)
+1. Add a new Pull Request
+    1. add your logo (200x200 PNG) to the `logos` directory
+    1. add your company / organization / individual information to the `Members` section in `profile/README.md`
 
 We will review your application as soon as possible.
 
@@ -55,8 +54,8 @@ We will review your application as soon as possible.
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="50%"><a href="https://numbersprotocol.io"><img src="https://avatars.githubusercontent.com/u/47553609?s=200&v=4" width="100px;" alt="Numbers Protocol"/><br /><sub><b>Numbers Protocol</b></sub></a><br /></td>
-      <td align="center" valign="top" width="50%"><a href="https://www.instill.tech"><img src="https://avatars.githubusercontent.com/u/66143470?s=200&v=4" width="100px;" alt="Instill AI"/><br /><sub><b>Instill AI</b></sub></a></td>
+      <td align="center" valign="top" width="50%"><a href="https://numbersprotocol.io"><img src="../logos/numbers-protocol.png" width="100px;" alt="Numbers Protocol"/><br /><sub><b>Numbers Protocol</b></sub></a><br /></td>
+      <td align="center" valign="top" width="50%"><a href="https://www.instill.tech"><img src="../logos/instill-ai.png" width="100px;" alt="Instill AI"/><br /><sub><b>Instill AI</b></sub></a></td>
     </tr>
   </tbody>
 </table>
