@@ -54,8 +54,9 @@ We will review your application as soon as possible.
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="50%"><a href="https://numbersprotocol.io"><img src="../logos/numbers-protocol.png" width="100px;" alt="Numbers Protocol"/><br /><sub><b>Numbers Protocol</b></sub></a><br /></td>
-      <td align="center" valign="top" width="50%"><a href="https://www.instill.tech"><img src="../logos/instill-ai.png" width="100px;" alt="Instill AI"/><br /><sub><b>Instill AI</b></sub></a></td>
+      <td align="center" valign="top" width="20%"><a href="https://numbersprotocol.io"><img src="../logos/numbers-protocol.png" width="100px;" alt="Numbers Protocol"/><br /><sub><b>Numbers Protocol</b></sub></a><br /></td>
+      <td align="center" valign="top" width="20%"><a href="https://www.instill.tech"><img src="../logos/instill-ai.png" width="100px;" alt="Instill AI"/><br /><sub><b>Instill AI</b></sub></a></td>
+      <td align="center" valign="top" width="20%"><a href="https://www.facebook.com/pyroimage"><img src="../logos/pyro-image.png" width="100px;" alt="Pyro Image"/><br /><sub><b>Pyro Image</b></sub></a></td>
     </tr>
   </tbody>
 </table>
