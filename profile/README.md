@@ -37,7 +37,7 @@ The alliance has strategically chosen to host its platform on GitHub to leverage
 
 We welcome you to apply to join Creative Origin! Please follow these steps to apply:
 
-1. Fork this repository.
+1. Fork [this repository](https://github.com/creative-origin/.github).
 1. Create a new branch.
 1. Add a new Pull Request
     1. add your logo (200x200 PNG) to the `logos` directory
