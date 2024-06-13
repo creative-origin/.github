@@ -55,8 +55,8 @@ We will review your application as soon as possible.
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="50%"><a href="https://numbersprotocol.io"><img src="https://avatars.githubusercontent.com/u/47553609?s=200&v=4" width="100px;" alt="Numbers Protocol"/><br /><sub><b>Numbers Protocol</b></sub></a>
-      <td align="center" valign="top" width="50%"><a href="https://www.instill.tech"><img src="https://avatars.githubusercontent.com/u/66143470?s=200&v=4" width="100px;" alt="Instill AI"/><br /><sub><b>Instill AI</b></sub></a>
+      <td align="center" valign="top" width="50%"><a href="https://numbersprotocol.io"><img src="https://avatars.githubusercontent.com/u/47553609?s=200&v=4" width="100px;" alt="Numbers Protocol"/><br /><sub><b>Numbers Protocol</b></sub></a><br /></td>
+      <td align="center" valign="top" width="50%"><a href="https://www.instill.tech"><img src="https://avatars.githubusercontent.com/u/66143470?s=200&v=4" width="100px;" alt="Instill AI"/><br /><sub><b>Instill AI</b></sub></a></td>
     </tr>
   </tbody>
 </table>
