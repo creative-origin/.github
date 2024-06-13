@@ -1,11 +1,12 @@
-# Welcome to Creative Origin
+# Welcome to Creative Origin - Ethical and Responsible AI Alliance
 
-- [Welcome to Creative Origin](#welcome-to-creative-origin)
+- [Welcome to Creative Origin - Ethical and Responsible AI Alliance](#welcome-to-creative-origin---ethical-and-responsible-ai-alliance)
 - [Background](#background)
 - [Purpose of the Alliance](#purpose-of-the-alliance)
 - [Importance of the Alliance](#importance-of-the-alliance)
 - [Responsibilities of Alliance Members](#responsibilities-of-alliance-members)
 - [Choice of Alliance Platform](#choice-of-alliance-platform)
+- [Join Creative Origin](#join-creative-origin)
 - [References](#references)
 - [Members](#members)
 
@@ -31,6 +32,19 @@ Lastly, members are committed to actively engaging in building protocols and tec
 
 # Choice of Alliance Platform
 The alliance has strategically chosen to host its platform on GitHub to leverage its robust, collaborative features and its widespread acceptance within the developer community. GitHub is renowned for promoting open-source projects, making it an ideal environment for our initiative, which prioritizes transparency and community involvement. By utilizing GitHub, we enable members worldwide to contribute easily to the project, enhancing the platform's reliability and innovativeness through collective expertise. Hosting on GitHub highlights our commitment to an open development ecosystem where contributions are welcomed and valued, driving forward our mission to create a more trustworthy and decentralized digital media landscape.
+
+# Join Creative Origin
+
+We welcome you to apply to join Creative Origin! Please follow these steps to apply:
+
+1. Fork this repository.
+1. Create a new branch.
+1. Add a new Pull Request, put your logo into the `logos` directory, and include the following information in the PR description:
+    * Full Name of the Company / Organization / Individual
+    * Website
+    * Social Media Links (e.g., X / LinkedIn / Facebook)
+
+We will review your application as soon as possible.
 
 # References
 
