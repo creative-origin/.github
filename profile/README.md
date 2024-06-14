@@ -31,6 +31,7 @@ Furthermore, members must prioritize maintaining control and ownership of users'
 Lastly, members are committed to actively engaging in building protocols and technologies using a community-driven approach. This responsibility emphasizes collaboration and open-source development, facilitating innovation that is accessible, transparent, and beneficial to all stakeholders.
 
 # Choice of Alliance Platform
+
 The alliance has strategically chosen to host its platform on GitHub to leverage its robust, collaborative features and its widespread acceptance within the developer community. GitHub is renowned for promoting open-source projects, making it an ideal environment for our initiative, which prioritizes transparency and community involvement. By utilizing GitHub, we enable members worldwide to contribute easily to the project, enhancing the platform's reliability and innovativeness through collective expertise. Hosting on GitHub highlights our commitment to an open development ecosystem where contributions are welcomed and valued, driving forward our mission to create a more trustworthy and decentralized digital media landscape.
 
 # Join Creative Origin
@@ -40,8 +41,8 @@ We welcome you to apply to join Creative Origin! Please follow these steps to ap
 1. Fork [this repository](https://github.com/creative-origin/.github).
 1. Create a new branch.
 1. Add a new Pull Request
-    1. add your logo (200x200 PNG) to the `logos` directory
-    1. add your company / organization / individual information to the `Members` section in `profile/README.md`
+   1. add your logo (200x200 PNG) to the `logos` directory
+   1. add your company / organization / individual information to the `Members` section in `profile/README.md`
 
 We will review your application as soon as possible.
 
@@ -58,6 +59,7 @@ We will review your application as soon as possible.
       <td align="center" valign="top" width="20%"><a href="https://www.instill.tech" target="_blank"><img src="../logos/instill-ai.png" width="100px;" alt="Instill AI"/><br /><sub><b>Instill AI</b></sub></a></td>
       <td align="center" valign="top" width="20%"><a href="https://www.facebook.com/pyroimage" target="_blank"><img src="../logos/pyro-image.png" width="100px;" alt="Pyro Image"/><br /><sub><b>Pyro Image</b></sub></a></td>
       <td align="center" valign="top" width="20%"><a href="https://defiance.media" target="_blank"><img src="../logos/defiance-media.png" width="100px;" alt="DeFiance Media"/><br /><sub><b>DeFiance Media</b></sub></a></td>
+      <td align="center" valign="top" width="20%"><a href="https://itheum.io" target="_blank"><img src="../logos/itheum-protocol.png" width="100px;" alt="Itheum Protocol"/><br /><sub><b>Itheum Protocol</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
