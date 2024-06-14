@@ -60,6 +60,8 @@ We will review your application as soon as possible.
       <td align="center" valign="top" width="20%"><a href="https://www.facebook.com/pyroimage" target="_blank"><img src="../logos/pyro-image.png" width="100px;" alt="Pyro Image"/><br /><sub><b>Pyro Image</b></sub></a></td>
       <td align="center" valign="top" width="20%"><a href="https://defiance.media" target="_blank"><img src="../logos/defiance-media.png" width="100px;" alt="DeFiance Media"/><br /><sub><b>DeFiance Media</b></sub></a></td>
       <td align="center" valign="top" width="20%"><a href="https://itheum.io" target="_blank"><img src="../logos/itheum-protocol.png" width="100px;" alt="Itheum Protocol"/><br /><sub><b>Itheum Protocol</b></sub></a><br /></td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="20%"><a href="https://clickapp.com" target="_blank"><img src="../logos/click.png" width="100px;" alt="Click Camera"/><br /><sub><b>Click Camera</b></sub></a><br /></td>
     </tr>
   </tbody>
