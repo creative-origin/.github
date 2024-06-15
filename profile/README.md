@@ -63,6 +63,7 @@ We will review your application as soon as possible.
     </tr>
     <tr>
       <td align="center" valign="top" width="20%"><a href="https://clickapp.com" target="_blank"><img src="../logos/click.png" width="100px;" alt="Click Camera"/><br /><sub><b>Click Camera</b></sub></a><br /></td>
+      <td align="center" valign="top" width="20%"><a href="https://www.allfeat.com" target="_blank"><img src="../logos/allfeat.png" width="100px;" alt="Allfeat"/><br /><sub><b>Allfeat</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
