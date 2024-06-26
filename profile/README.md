@@ -66,6 +66,7 @@ We will review your application as soon as possible.
       <td align="center" valign="top" width="20%"><a href="https://www.allfeat.com" target="_blank"><img src="../logos/allfeat.png" width="100px;" alt="Allfeat"/><br /><sub><b>Allfeat</b></sub></a><br /></td>
       <td align="center" valign="top" width="20%"><a href="https://matters-lab.io/" target="_blank"><img src="../logos/matters-lab.png" width="100px;" alt="Matters Lab"/><br /><sub><b>Matters Lab</b></sub></a><br /></td>
       <td align="center" valign="top" width="20%"><a href="https://like.co" target="_blank"><img src="../logos/likecoin.png" width="100px;" alt="LikeCoin"/><br /><sub><b>LikeCoin</b></sub></a><br /></td>
+      <td align="center" valign="top" width="20%"><a href="https://www.vaisual.com" target="_blank"><img src="../logos/vaisual.png" width="100px;" alt="vAIsual"/><br /><sub><b>vAIsual</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
