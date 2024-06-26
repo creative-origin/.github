@@ -68,8 +68,8 @@ We will review your application as soon as possible.
       <td align="center" valign="top" width="20%"><a href="https://like.co" target="_blank"><img src="../logos/likecoin.png" width="100px;" alt="LikeCoin"/><br /><sub><b>LikeCoin</b></sub></a><br /></td>
       <td align="center" valign="top" width="20%"><a href="https://www.vaisual.com" target="_blank"><img src="../logos/vaisual.png" width="100px;" alt="vAIsual"/><br /><sub><b>vAIsual</b></sub></a><br /></td>
     </tr>
-      <td align="center" valign="top" width="20%"><a href="https://orangeweb3.com" target="_blank"><img src="../logos/orange.png" width="100px;" alt="Orange Web3"/><br /><sub><b>Orange Web3</b></sub></a><br /></td>
     <tr>
+      <td align="center" valign="top" width="20%"><a href="https://orangeweb3.com" target="_blank"><img src="../logos/orange.png" width="100px;" alt="Orange Web3"/><br /><sub><b>Orange Web3</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
