@@ -71,6 +71,7 @@ We will review your application as soon as possible.
     <tr>
       <td align="center" valign="top" width="20%"><a href="https://orangeweb3.com" target="_blank"><img src="../logos/orange.png" width="100px;" alt="Orange Web3"/><br /><sub><b>Orange Web3</b></sub></a><br /></td>
        <td align="center" valign="top" width="20%"><a href="https://gitdata.ai/" target="_blank"><img src="../logos/GitDataAI.png" width="100px;" alt="GitData.AI"/><br /><sub><b>GitData.AI</b></sub></a><br /></td>
+      <td align="center" valign="top" width="20%"><a href="https://www.dacs.org.uk/" target="_blank"><img src="../logos/dacs.png" width="100px;" alt="DACS"/><br /><sub><b>DACS</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
