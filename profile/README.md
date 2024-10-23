@@ -57,7 +57,7 @@ We will review your application as soon as possible.
     <tr>
       <td align="center" valign="top" width="20%"><a href="https://numbersprotocol.io" target="_blank"><img src="../logos/numbers-protocol.png" width="100px;" alt="Numbers Protocol"/><br /><sub><b>Numbers Protocol</b></sub></a><br /></td>
       <td align="center" valign="top" width="20%"><a href="https://www.instill.tech" target="_blank"><img src="../logos/instill-ai.png" width="100px;" alt="Instill AI"/><br /><sub><b>Instill AI</b></sub></a></td>
-      <td align="center" valign="top" width="20%"><a href="https://www.facebook.com/pyroimage" target="_blank"><img src="../logos/pyro-image.png" width="100px;" alt="Pyro Image"/><br /><sub><b>Pyro Image</b></sub></a></td>
+      <td align="center" valign="top" width="20%"><a href="https://www.pyroimage.com/" target="_blank"><img src="../logos/pyro-image.png" width="100px;" alt="Pyro Image"/><br /><sub><b>Pyro Image</b></sub></a></td>
       <td align="center" valign="top" width="20%"><a href="https://defiance.media" target="_blank"><img src="../logos/defiance-media.png" width="100px;" alt="DeFiance Media"/><br /><sub><b>DeFiance Media</b></sub></a></td>
       <td align="center" valign="top" width="20%"><a href="https://itheum.io" target="_blank"><img src="../logos/itheum-protocol.png" width="100px;" alt="Itheum Protocol"/><br /><sub><b>Itheum Protocol</b></sub></a><br /></td>
     </tr>
@@ -70,7 +70,7 @@ We will review your application as soon as possible.
     </tr>
     <tr>
       <td align="center" valign="top" width="20%"><a href="https://orangeweb3.com" target="_blank"><img src="../logos/orange.png" width="100px;" alt="Orange Web3"/><br /><sub><b>Orange Web3</b></sub></a><br /></td>
-       <td align="center" valign="top" width="20%"><a href="https://gitdata.ai/" target="_blank"><img src="../logos/GitDataAI.png" width="100px;" alt="GitData.AI"/><br /><sub><b>GitData.AI</b></sub></a><br /></td>
+      <td align="center" valign="top" width="20%"><a href="https://gitdata.ai/" target="_blank"><img src="../logos/gitdata-ai.png" width="100px;" alt="GitData.AI"/><br /><sub><b>GitData.AI</b></sub></a><br /></td>
       <td align="center" valign="top" width="20%"><a href="https://www.dacs.org.uk/" target="_blank"><img src="../logos/dacs.png" width="100px;" alt="DACS"/><br /><sub><b>DACS</b></sub></a><br /></td>
     </tr>
   </tbody>
